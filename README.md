@@ -1,4 +1,4 @@
-# Mac Faldet--@mfaldet 👋
+# Mac Faldet - @mfaldet 
 
 Hello, my name's Mac--an experienced Statistician, heavily trained in business analysis & data science, with an emphasis in Machine Learning.
 
