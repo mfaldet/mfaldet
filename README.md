@@ -50,7 +50,6 @@ In my free time I'm an avid reader, swimmer, and musician. I'm passionate about 
 ![](https://img.shields.io/badge/Code-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Statistics-SPSS-informational?style=flat&logo=spss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=googleanalytics&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Analytics-Google-informational?style=flat&logo=googleanalytics&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AI-SAS-informational?style=flat&logo=sas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Microsoft-Power-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
