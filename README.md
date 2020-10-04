@@ -1,4 +1,8 @@
-### Hi there 👋
+# Mac Faldet-@mfaldet 👋
+
+Hello, my name's Mac--an experienced Statistician, heavily trained in business analysis & data science, with an emphasis in Machine Learning.
+
+In my free time I'm an avid reader, swimmer, and guitar player. I'm passionate about learnining from the intersection of expressionistic art styles and artificial intelligence.
 
 <!--
 **mfaldet/mfaldet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
