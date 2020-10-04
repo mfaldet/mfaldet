@@ -40,11 +40,11 @@ In my free time I'm an avid reader, swimmer, and musician. I'm passionate about 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Apache-Spark-informational?style=flat&logo=apachespark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Apache-Spark-informational?style=flat&logo=apache spark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apache-Hadoop-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apache-Hive-informational?style=flat&logo=hive&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
