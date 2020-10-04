@@ -3,17 +3,24 @@
 ## :open_book: About
 Hello, my name's Mac :man_scientist_medium_skin_tone: - an experienced Statistician, heavily trained in business analysis & data science, with an emphasis in Machine Learning.
 
-In my free time I'm an avid reader, swimmer, and music creator :guitar: :grand_piano:. I'm passionate about researching the intersection of expressionistic art styles and artificial intelligence.
+In my free time I'm an avid reader, swimmer, and music creator :guitar:. I'm passionate about researching the intersection of expressionistic art styles and artificial intelligence.
 
 ## :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Apache-Spark-informational?style=flat&logo=spark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Apache-Hive-informational?style=flat&logo=hive&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Statistics-SPSS-informational?style=flat&logo=spss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Analytics-Tableau-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AI-SAS-informational?style=flat&logo=sas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DVCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DVCS-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Visio-informational?style=flat&logo=visio&logoColor=white&color=2bbc8a)
 
 ## 🌱 I'm currently learning...
 ~ 
@@ -40,7 +47,6 @@ In my free time I'm an avid reader, swimmer, and music creator :guitar: :grand_p
 
 
 ## :link: Get in touch!
-~
-
-
-[![mfaldet's github stats](https://github-readme-stats.vercel.app/api?username=mfaldet$show_icons=true&theme=night_owl)](https://github.com/anuraghazra/github-readme-stats)
+~ email
+~ linkedIn
+~ kaggle
