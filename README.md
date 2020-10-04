@@ -7,6 +7,10 @@ In my free time I'm an avid reader, swimmer, and music creator :guitar: :grand_p
 
 ## :wrench: Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -16,6 +20,24 @@ In my free time I'm an avid reader, swimmer, and music creator :guitar: :grand_p
 
 ## :crystal_ball: Goals for 2021:
 ~ 
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/mfaldet/mfaldet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaldet&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/mfaldet/mfaldet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mfaldet&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mac's GitHub Stats" />
+</a>
+
+<a href="https://github.com/mfaldet/the_movie_database">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaldet&repo=the_movie_database&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/mfaldet/project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mfaldet&repo=project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+
 
 ## :link: Get in touch!
 ~
