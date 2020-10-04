@@ -40,7 +40,7 @@ In my free time I'm an avid reader, swimmer, and musician. I'm passionate about 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Apache-Spark-informational?style=flat&logo=apachespark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Apache-Spark-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apache-Hadoop-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apache-Hive-informational?style=flat&logo=hive&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
@@ -57,7 +57,7 @@ In my free time I'm an avid reader, swimmer, and musician. I'm passionate about 
 ![](https://img.shields.io/badge/Microsoft-Office-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DVCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DVCS-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Design-Visio-informational?style=flat&logo=microsoftvisio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Design-Visio-informational?style=flat&logo=microsoftvisio.svg&logoColor=white&color=2bbc8a)
 
 > "Our world is pregnant with information (physical order). It is not an amorphous soup of atoms, but a neatly organized collection of structures, colors, correlations and systems." - Cesar Hidalgo
 
