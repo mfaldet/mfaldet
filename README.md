@@ -10,20 +10,20 @@ In my free time I'm an avid reader, swimmer, and musician. I'm passionate about 
 > *the encounters we don't see; that which remain subconcious, are feelings.*
 
 
-## 🌱 I'm currently learning...
+## 🌱 I'm currently studying...
 
-- Database Systems Design & Management
-- Development & Operations of Cloud Systems
-- Model architecture in Tensor Flow, and how to utilize OpenAI!
+- Healthcare Analytics and A.I. Case Study
+- Data Warehousing & Business Intelligence
+- another Big Data Management course, focused on HBase and Spark
 
 > "Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi
 
 
-## :crystal_ball: Goals for 2020:
+## :crystal_ball: Goals for 2021:
 
-- Qualitative Analyst in R Certification
-- AI Certification
-- Gymnopedie No. 1 on piano
+- Machine Learning Scientist in Python Certification
+- AI Engineer Certification
+- Perform Gymnopedie No. 1 on piano
 
 > "You can have anything in life if you sacrifice everything in your life for it." - J.M. Barrie
 > "Small actions, repeated over time, achieve greatness." - Steph Smith
