@@ -1,68 +1,24 @@
-# Mac Faldet - @mfaldet :alien:
+# Mac Faldet
 
-## :open_book: About
-Hello, my name's Mac :man_scientist: - an experienced Statistician, heavily trained in business analysis & data science, with an emphasis in Machine Learning.
+Analyst by training, builder by habit. I run [Faldet Advisory](https://faldetadvisory.com) — an analytic lead on demand for operating companies that have more information than they can use and nobody whose job it is to know which question matters. Before that: a decade across banking, commodity markets, software and government, most of it fundamental supply-and-demand analysis and the customer analytics that put real money on the table.
 
-> *Most of what we encounter are thoughts. Projections of labels and values.*
+I'm also a co-founder at Focal Dataworks, a strategic-planning platform for city governments, where I cover data science, finance and strategy.
 
-In my free time I'm an avid reader, swimmer, and musician. I'm passionate about studying the intersection of expressionistic art styles and artificial intelligence.
+**Now**
 
+- Faldet Advisory — first engagements, one question at a time
+- [Roll Along](https://github.com/mfaldet/roll-along) — a tilt-driven iOS marble game, thousands of levels, built in SwiftUI with a custom physics tick
+- [Pour](https://github.com/mfaldet/pourart) — a real fluid-simulation pour-painting app for iOS, spec and architecture first, build second
+- A small, honest US Census ingestion pipeline — pull, clean, load, one chart
 
-## 🌱 I'm currently studying...
+**How I work**
 
-- Microsoft Azure DB management and automation
-- Microsoft Power Platforms
-- Python API ingestion of US Census data
+Spec before code. Decisions written down as they're made. Real simulation over a convincing fake. Confidence stated as a number, not a mood.
 
-> "Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi
+**Tools I reach for**
 
+Python, R, SQL · Swift / SwiftUI, Metal · Azure, Power Platform · and whatever AI tooling shortens the distance between a question and an answer
 
-## :crystal_ball: Goals for 2024:
+**Reach me**
 
-- Azure Database, ingestion automation, and web app dashboard complete
-- Power Platform Certification
-- Opus 20 by Dustin O'Halloran on piano
-
-> "Small actions, repeated over time, achieve greatness." - Steph Smith
-
-
-## :link: Get in touch!
-
-~ email
-~ linkedIn
-~ kaggle
-
->
-
-## :wrench: Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Apache-Spark-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Apache-Hadoop-informational?style=flat&logo=hive&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Statistics-SPSS-informational?style=flat&logo=spss&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=googleanalytics&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AI-SAS-informational?style=flat&logo=sas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Microsoft-Power-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Microsoft-Office-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DVCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DVCS-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Design-Visio-informational?style=flat&logo=microsoftvisio.svg&logoColor=white&color=2bbc8a)
-
-> "Our world is pregnant with information (physical order). It is not an amorphous soup of atoms, but a neatly organized collection of structures, colors, correlations and systems." - Cesar Hidalgo
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/mfaldet/mfaldet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaldet&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/mfaldet/mfaldet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mfaldet&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mac's GitHub Stats" />
-</a>
+mac@faldetadvisory.com · [faldetadvisory.com](https://faldetadvisory.com) · [LinkedIn](https://www.linkedin.com/in/macfaldet)
