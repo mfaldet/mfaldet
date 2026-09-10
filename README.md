@@ -5,7 +5,8 @@ Before that, ten years across banking, commodity markets, software and governmen
 Co-founder at [Focal Dataworks](https://focaldataworks.com): helping municipalities plan and perform.
 
 Typically working proprietarily, but happy to share some recent personal builds of mine: 
-- [Roll Along](https://github.com/mfaldet/roll-along), an iOS marble game in SwiftUI and CoreMotion, and 
-- [Pour](https://github.com/mfaldet/pourart), a pour-painting app on a real fluid sim.
+- [Local Vision](https://github.com/mfaldet/localvision), a data visualization tool built for city analysis (high dimensionality, low volume, geo-centric, interactive).  
+- [Roll Along](https://github.com/mfaldet/roll-along), an iOS marble platform, come Roll Along!
+- [Pour](https://github.com/mfaldet/pourart), a pour-painting app on a real fluid simulation.
 
 mac@faldetadvisory.com · [LinkedIn](https://www.linkedin.com/in/macfaldet)
