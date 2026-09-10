@@ -4,8 +4,8 @@ I run [Faldet Advisory](https://faldetadvisory.com): analytics for operating com
 Before that, ten years across banking, commodity markets, software and government.  
 Co-founder at [Focal Dataworks](https://focaldataworks.com): helping municipalities plan and perform.
 
-Typically working proprietarily, but happy to share some recent personal builds of mine: 
-- [Local Vision](https://github.com/mfaldet/localvision), a data visualization tool built for city analysis (high dimensionality, low volume, geo-centric, interactive).  
+Most of my work is proprietary. A few personal builds:
+- [LocalVision](https://github.com/mfaldet/localvision), interactive Census-boundary dashboards for city analysis — linked map and charts, TypeScript with a Jupyter wrapper. [Docs](https://mfaldet.github.io/localvision/)
 - [Roll Along](https://github.com/mfaldet/roll-along), an iOS marble platform, come Roll Along!
 - [Pour](https://github.com/mfaldet/pourart), a pour-painting app on a real fluid simulation.
 
