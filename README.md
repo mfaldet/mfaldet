@@ -1,7 +1,7 @@
 # Mac Faldet
 
-I run [Faldet Advisory](https://faldetadvisory.com): analytics for operating companies, one question at a time. 
-Before that, ten years across banking, commodity markets, software and government. 
+I run [Faldet Advisory](https://faldetadvisory.com): analytics for operating companies, one question at a time.  
+Before that, ten years across banking, commodity markets, software and government.  
 Co-founder at Focal Dataworks.
 
 Typically working proprietarily, but happy to share some recent personal builds of mine: 
