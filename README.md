@@ -1,8 +1,8 @@
 # Mac Faldet
 
-I run [Faldet Advisory](https://faldetadvisory.com): analytics for operating companies, one question at a time.  
+I run [Faldet Advisory](https://faldetadvisory.com): independent analytics for companies with more data than time to use it.  
 Before that, ten years across banking, commodity markets, software and government.  
-Co-founder at [Focal Dataworks](https://focaldataworks.com): helping municipalities plan and perform.
+Co-founded [Focal Dataworks](https://focaldataworks.com), govtech for municipal planning; exited 2026.
 
 Most of my work is proprietary. A few personal builds:
 - [LocalVision](https://github.com/mfaldet/localvision), interactive Census-boundary dashboards for city analysis — linked map and charts, TypeScript with a Jupyter wrapper. [Docs](https://mfaldet.github.io/localvision/)
